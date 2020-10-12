@@ -20,9 +20,6 @@
   opacity: 0.5;
 }
 
-.Todo.completed .Todo-task {
-  /* opacity: 0.6; */
-}
 .Todo.completed .Todo-task:before {
   content: "";
   position: absolute;
